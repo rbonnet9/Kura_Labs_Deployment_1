@@ -1,2 +1,2 @@
-# kuralabs_deployment_1
-CI/CD pipeline deployment 1
+# KUra_Labs_Deployment_1
+CI/CD pipeline Deployment 1
